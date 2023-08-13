@@ -1,6 +1,6 @@
 # 0x02. Python - import & modules
 Python
- ## Tasks ##
+ Tasks :
  0. Import a simple function from a simple file
  1. My first toolbox!
  2. How to make a script dynamic!
@@ -11,5 +11,3 @@ Python
  7. Easy print
  8. ByteCode -> Python #3
  9. Fast alphabet
-
-# °Afolabi John Oluwaseun
